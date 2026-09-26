@@ -239,22 +239,11 @@ The repository can be organized as follows:
 ```text
 Data-Science-Internship-at-Atliq-Technologies/
 │
-├── Week-1/
-│   ├── Data-Analysis/
-│   ├── Campaign-Performance-Analysis/
-│   └── Presentation/
+├── Week-1/ 
 │
 ├── Week-2/
-│   └── SQL/
-│       └── SQL-Query-Debugging/
 │
-├── Week-3-4/
-│   ├── Data-Cleaning/
-│   ├── Feature-Engineering/
-│   ├── Predictive-Modeling/
-│   ├── MLflow-Deployment/
-│   ├── DAGsHub/
-│   └── Streamlit-App/
+├── Week-3-4
 │
 └── README.md
 ```
